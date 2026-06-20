@@ -30,16 +30,16 @@ A full-stack e-commerce platform for motorcycles and spare parts, designed to pr
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](screenshots/1.png)
+![Home Page](screenshots/7.png)
 
 ### Product Details
-![Product Details](screenshots/2.png)
+![Product Details](screenshots/Moto2.png)
 
 ### Login
-![Login](screenshots/3.png)
+![Login](screenshots/Moto3.png)
 
 ### Register
-![Register](screenshots/4.png)
+![Register](screenshots/moto4.png)
 
 ### Admin Dashboard
 ![Admin Dashboard](screenshots/5.png)
@@ -48,7 +48,7 @@ A full-stack e-commerce platform for motorcycles and spare parts, designed to pr
 ![Product Management](screenshots/6.png)
 
 ### Moto Assistant Chatbot
-![Moto Assistant](screenshots/7.png)
+![Moto Assistant](screenshots/1.png)
 
 ## 🛠️ Tech Stack
 
