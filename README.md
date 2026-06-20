@@ -21,4 +21,4 @@ Run the application and follow the on-screen instructions.
 
 ## Author
 
-Ahmed Hesham
+Ahmed Wahba
